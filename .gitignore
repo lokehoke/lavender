@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+build/
+docs/build/
+docs/source/api
+docs/source/doxyoutput
+out/
+dist/
+subprojects/
+__pycache__
